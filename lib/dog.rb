@@ -12,9 +12,9 @@ class Dog
   def bark
     puts "woof!"
   end
-    
+   return name 
 end
 
-return name
+
 
 
