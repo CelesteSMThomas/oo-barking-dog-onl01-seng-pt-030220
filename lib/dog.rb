@@ -15,4 +15,6 @@ class Dog
     
 end
 
+return name
+
 
